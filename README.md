@@ -14,6 +14,6 @@ Generates a random point within an element.
 ### RandomDirection()
 Generates a random direction obeying Knudsen's cosine law.
 ### Intersection()
-Finds intersection of line (emanating from random point within an element with random direction cosine) with the target plane.
+Finds the intersection of the line (emanating from a random point within an element with random direction cosine) with the target plane.
 ### ViewFactorPlate()
-With input parameters as number of rays per element, mesh density compiles to give the radiation view factor of the geometry
+With input parameters such as the number of rays per element, mesh density compiles to give the radiation view factor of the geometry
